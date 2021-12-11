@@ -10,8 +10,8 @@ import {
   Button,
   Center,
 } from "@chakra-ui/react";
-import Content from "../components/Content";
-import Card from "../components/Card";
+import Content from "./Content";
+import Card from "./Card";
 function Homes() {
   return (
     <Box p={2}>

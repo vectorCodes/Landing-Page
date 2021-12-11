@@ -1,5 +1,5 @@
 import { sidebarData } from "../utilities/sidebarData";
-import Homes from "./Home";
+import Homes from "../components/Home";
 import {
   Box,
   HStack,
